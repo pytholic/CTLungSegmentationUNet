@@ -1,0 +1,7 @@
+cmd
+
+
+A simpler way is to do xcopy to make a copy of the entire directory structure using /s switch. help for /s says Copies directories and subdirectories except empty ones.
+
+xcopy dirA dirB /S
+where dirA is source with Empty folders. DirB will be the copy without empty folders

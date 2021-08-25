@@ -1,0 +1,9 @@
+1. Data collection
+
+2. Data cleanup
+
+3. Conversion to nifti 
+
+4. AI-assisted annotation (3D slicer)
+
+5. Training and prediction

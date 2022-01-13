@@ -29,7 +29,7 @@ Before starting training, make sure your data structure looks like this.
             |-- img
 ```
 
-After that we can prepare our UNet mdoel and train it on our dataset. We can also visualize our models predictions on the validation dataset. The code is provided in the 'Model training' notebook.
+After that we can prepare our UNet model and train it on our dataset. We can also visualize our models predictions on the validation dataset. The code is provided in the 'Model training' notebook.
 
 ## Prediction
 We can use also make and visualize predicitons on the test data. The notebooks are provided.
